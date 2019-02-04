@@ -1,0 +1,12 @@
+{
+    "ID":"CEA0FDFC6D3B4085823D60DC76F54321",
+    "ActionKeyword":"say",
+    "Name":"sayPlugin",
+    "Description":"using windows SpeechSynthesizer to talk",
+    "Author":"Ebbe Vang",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"evang.dk",
+    "ExecuteFileName":"SayPlugin.dll",
+    "IcoPath":"say.png"
+}
